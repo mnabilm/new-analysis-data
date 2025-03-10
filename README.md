@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dicoding Collection Dashboard ✨
 
 ## Setup Environment - Anaconda
@@ -20,3 +21,6 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
+=======
+# new-analysis-data
+>>>>>>> 0687c33b7a08e5dfae0d4eefdbd0faf79e264484
